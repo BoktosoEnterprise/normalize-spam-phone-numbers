@@ -1,5 +1,5 @@
 {
-    "name": "boktosoenterprise/normalize-spam-phone-numbers",
+    "name": "boktoso-enterprise/normalize-spam-phone-numbers",
     "version": "0.0.1",
     "description": "Normalize spam formatted phone numbers into integers.",
     "type": "library",
@@ -20,8 +20,11 @@
     "authors": [
         {
             "name": "Robby Hayman",
-            "email": "rhayman@boktoso.net"
+            "email": "rhayman@boktoso.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "test": "phpunit"
+    }
 }
