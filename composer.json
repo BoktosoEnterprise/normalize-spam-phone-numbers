@@ -1,6 +1,6 @@
 {
     "name": "boktoso-enterprise/normalize-spam-phone-numbers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Normalize spam formatted phone numbers into integers.",
     "type": "library",
     "require-dev": {
