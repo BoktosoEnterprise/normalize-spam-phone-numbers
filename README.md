@@ -8,7 +8,7 @@ process further.
 
 Installation
 ```
-composer require boktoso-enterprise/normalize-phone-numbers
+composer require boktoso-enterprise/normalize-spam-phone-numbers
 ```
 
 Examples:
